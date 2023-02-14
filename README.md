@@ -11,5 +11,5 @@
  ![image](https://user-images.githubusercontent.com/29576337/218687655-d1838d72-5570-44ee-9e8b-071b85fad0fb.png)
  
  Notebook in colab: https://colab.research.google.com/drive/1hezhOE20CvEupXk9WeUnY1LhRDl_z7kj?usp=sharing
-[Link  https://colab.research.google.com/drive/1hezhOE20CvEupXk9WeUnY1LhRDl_z7kj?usp=sharing](https://colab.research.google.com/drive/1hezhOE20CvEupXk9WeUnY1LhRDl_z7kj?usp=sharing)
+
 
